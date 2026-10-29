@@ -1,0 +1,16 @@
+/target/
+/dist/
+
+# Local IDE configuration
+/.idea/
+/.vscode/
+*.iml
+
+# Local logs and crash dumps
+*.log
+*.dmp
+
+# Windows / macOS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
